@@ -1,0 +1,11 @@
+python-telegram-bot
+requests
+python-dotenv
+telebot
+pandas
+schedule
+data-fetcher
+pyTelegramBotAPI
+matplotlib 
+numpy
+yfinance
